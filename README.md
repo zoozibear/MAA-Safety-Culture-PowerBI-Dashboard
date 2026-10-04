@@ -8,7 +8,7 @@ I owned the project from concept through implementation, including survey develo
 
 The final solution transformed raw survey responses into a structured, leadership-facing Power BI dashboard that made both quantitative and qualitative safety data easier to interpret, compare, and act upon.
 
-### [View the Full Dashboard](./MAA-Safety-Culture-PowerBI-Dashboard.pdf)
+### [View the Full Dashboard](Mock Version - MAA Safety Culture Survey Dashboard - Portfolio.pdf)
 
 ---
 
